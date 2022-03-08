@@ -1,1 +1,1 @@
-# slider-web
+# slider-website
